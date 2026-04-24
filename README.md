@@ -1,4 +1,5 @@
-# CSCI331_GroupEOS1-Project2
+# CSCI331_GroupEOS1-Project2, I did it Myself,no peer members
+
 This File Contains Plan to do List
 This File Contain Group Planner
 This File Contains a pdf file of the Star diagram. 
